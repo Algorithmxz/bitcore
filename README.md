@@ -56,3 +56,6 @@ Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/mas
 Copyright 2013-2025 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
 
 [^1]: The Bitcore P2P Doge library is no longer maintained as all the core functionality is contained in Bitcore P2P
+
+
+> Automated agentic update: 2026-03-12T17:03:09.448Z
